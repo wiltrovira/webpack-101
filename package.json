@@ -1,0 +1,28 @@
+{
+  "name": "webpack-101",
+  "version": "0.1.0",
+  "description": "ejemplo básico de webpack nodejs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltrovira/webpack-101.git"
+  },
+  "keywords": [
+    "webpack",
+    "nodejs"
+  ],
+  "author": "Wilt Rovira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltrovira/webpack-101/issues"
+  },
+  "homepage": "https://github.com/wiltrovira/webpack-101#readme"
+}
